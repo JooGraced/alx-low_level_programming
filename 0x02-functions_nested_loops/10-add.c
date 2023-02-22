@@ -1,5 +1,6 @@
-#include "main.h"/**
-* add - Adds two integers and return  the results.
+#include "main.h"
+/**
+*add - Adds two integers and return  the results.
 **@a: number one.
 * @b: number two.
 **Return: Add of number one and number two.
