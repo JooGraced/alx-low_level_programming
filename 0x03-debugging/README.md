@@ -1,1 +1,1 @@
-I will be working on some C level programing
+Erros are part of humans and being able to fix them is great.
